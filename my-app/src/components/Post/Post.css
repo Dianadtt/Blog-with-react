@@ -1,0 +1,10 @@
+.post {
+    background-color: #ff520026;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.post h1 {
+    font-size: 16px;
+}
